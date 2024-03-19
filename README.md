@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hazem Waheed</h1>
-<h3 align="center">A dedicated junior Student at Faculty of Computers and Artificial Intelligence - Cairo University, intrigued by the world of computer science and programming. Seeking active involvement in the software engineering field to leverage my programming skills into innovative solutions.</h3>
+<h3 align="center">A dedicated junior Student at the Faculty of Computers and Artificial Intelligence - Cairo University, intrigued by the world of computer science and programming. Seeking active involvement in the software engineering field to leverage my programming skills into innovative solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
