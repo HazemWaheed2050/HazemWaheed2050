@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hazem Waheed</h1>
-<h3 align="center">A dedicated junior Student at the Faculty of Computers and Artificial Intelligence - Cairo University, intrigued by the world of computer science and programming. Seeking active involvement in the software engineering field to leverage my programming skills into innovative solutions.</h3>
+<h3 align="center"> I'm a 22 years old Software Engineer @Odoo - Cairo University Graduate, 3x ACPC Finalist</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hazem-waheed-17626a238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hazem-waheed-17626a238/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hazem-waheed-17626a238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hazemwaheed2003/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/wa7eedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="wa7eedd" height="30" width="40" /></a>
 </p>
 
